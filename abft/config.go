@@ -1,6 +1,6 @@
 package abft
 
-import "github.com/Fantom-foundation/lachesis-base/utils/cachescale"
+import "github.com/Nova-foundation/lachesis-base/utils/cachescale"
 
 type Config struct {
 }

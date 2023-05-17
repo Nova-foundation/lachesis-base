@@ -1,11 +1,11 @@
 package abft
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/abft/dagidx"
-	"github.com/Fantom-foundation/lachesis-base/abft/election"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/Nova-foundation/lachesis-base/abft/dagidx"
+	"github.com/Nova-foundation/lachesis-base/abft/election"
+	"github.com/Nova-foundation/lachesis-base/hash"
+	"github.com/Nova-foundation/lachesis-base/inter/idx"
+	"github.com/Nova-foundation/lachesis-base/inter/pos"
 )
 
 type OrdererCallbacks struct {

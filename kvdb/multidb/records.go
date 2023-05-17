@@ -3,7 +3,7 @@ package multidb
 import (
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/Nova-foundation/lachesis-base/kvdb"
 )
 
 type TableRecord struct {

@@ -1,6 +1,6 @@
 package cachedproducer
 
-import "github.com/Fantom-foundation/lachesis-base/kvdb"
+import "github.com/Nova-foundation/lachesis-base/kvdb"
 
 type StoreWithFn struct {
 	kvdb.Store

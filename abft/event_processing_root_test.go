@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/Nova-foundation/lachesis-base/inter/dag"
+	"github.com/Nova-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/Nova-foundation/lachesis-base/inter/idx"
 )
 
 func TestLachesisClassicRoots(t *testing.T) {

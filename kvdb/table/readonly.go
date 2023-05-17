@@ -1,7 +1,7 @@
 package table
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/Nova-foundation/lachesis-base/kvdb"
 )
 
 type IteratedReader struct {

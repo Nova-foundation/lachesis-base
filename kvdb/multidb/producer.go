@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
-	"github.com/Fantom-foundation/lachesis-base/utils/fmtfilter"
+	"github.com/Nova-foundation/lachesis-base/kvdb"
+	"github.com/Nova-foundation/lachesis-base/kvdb/table"
+	"github.com/Nova-foundation/lachesis-base/utils/fmtfilter"
 )
 
 type Producer struct {

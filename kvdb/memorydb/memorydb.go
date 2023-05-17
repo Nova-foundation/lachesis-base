@@ -2,9 +2,9 @@
 package memorydb
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/devnulldb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/flushable"
+	"github.com/Nova-foundation/lachesis-base/kvdb"
+	"github.com/Nova-foundation/lachesis-base/kvdb/devnulldb"
+	"github.com/Nova-foundation/lachesis-base/kvdb/flushable"
 )
 
 // Database is an ephemeral key-value store. Apart from basic data storage

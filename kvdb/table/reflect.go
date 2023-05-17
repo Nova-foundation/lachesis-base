@@ -5,7 +5,7 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/Nova-foundation/lachesis-base/kvdb"
 )
 
 // MigrateTables sets target fields to database tables.

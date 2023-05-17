@@ -1,12 +1,12 @@
 package abft
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/abft/dagidx"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
-	"github.com/Fantom-foundation/lachesis-base/lachesis"
+	"github.com/Nova-foundation/lachesis-base/abft/dagidx"
+	"github.com/Nova-foundation/lachesis-base/hash"
+	"github.com/Nova-foundation/lachesis-base/inter/dag"
+	"github.com/Nova-foundation/lachesis-base/inter/idx"
+	"github.com/Nova-foundation/lachesis-base/inter/pos"
+	"github.com/Nova-foundation/lachesis-base/lachesis"
 )
 
 var _ lachesis.Consensus = (*Lachesis)(nil)
