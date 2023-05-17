@@ -1,4 +1,4 @@
-module github.com/Fantom-foundation/lachesis-base
+module github.com/Nova-foundation/lachesis-base
 
 go 1.17
 
